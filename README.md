@@ -47,7 +47,23 @@ This project utilizes 5 primary tables from a database:
 
 ![Screenshot (165)](https://github.com/user-attachments/assets/8bb7f56a-49c8-423e-97ec-495cd299efbb)
 
+## Conclusions:
 
+- **Sales Decline:** Total sales volume and revenue showed a significant decline in 2020, approximately 57.7% compared to 2019.
+- **Top Revenue Markets:** Major revenue was generated from Delhi NCR, Mumbai, Ahmedabad, Bhopal, and Nagpur.
+- **High Sales Quantity:** Maximum sales quantity was observed in Delhi NCR, Mumbai, Nagpur, Kochi, and Ahmedabad.
+- **Peak Sales Months:** Most sales occurred in January, followed by November and March.
+- **Low Performance Markets:** Lucknow, Surat, and Bhubaneswar reported the lowest revenue and profit margins.
+- **Top Customers:** Customers like Electronics and Excel stores contributed a high profit margin (up to 45.4%).
+
+## Recommendations:
+
+- **Focus on Lucknow, Surat, and Bhubaneswar to redesign sales strategy and address underperformance.** 
+- **Increase sales volumes in Patna, Surat, and Kanpur through localized offers and promotions.** 
+- **Prioritize campaigns for Prod047 and Prod061 due to their high profitability and sales.** 
+- **Offer loyalty programs and special deals to Electronics and Excel stores to retain high-profit customers.**
+- **Launch marketing campaigns during January, November, and March for maximum sales impact.**
+- **Align top-performing products with high-revenue regions, like promoting Prod040 in Delhi NCR or Mumbai.**
 
 
 
