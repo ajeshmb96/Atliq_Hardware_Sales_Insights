@@ -16,7 +16,6 @@ Enable the Sales Director of AtliQ Hardware to:
 
  ## Tools & Technologies Used
 
- # Project Tools
 
 | Tool        | Purpose                                     |
 |-------------|---------------------------------------------|
