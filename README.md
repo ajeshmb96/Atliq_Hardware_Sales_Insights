@@ -33,6 +33,20 @@ This project utilizes 5 primary tables from a database:
 - products
 - Transactions
 
+## Power BI Dashboard
+
+### Key Insights
+
+![Screenshot (163)](https://github.com/user-attachments/assets/2260d9f8-3e3b-4e7c-bba6-7f7b8c7fbcb2)
+
+### Profit Analysis
+
+![Screenshot (164)](https://github.com/user-attachments/assets/8d5684d8-2f31-4d1f-bcf9-89fd1d8bc55d)
+
+### Performance Insights
+
+![Screenshot (165)](https://github.com/user-attachments/assets/8bb7f56a-49c8-423e-97ec-495cd299efbb)
+
 
 
 
